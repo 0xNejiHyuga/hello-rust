@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Инициализация языка программирования Rust...");
+    println!("Привет, Rust")
 }
